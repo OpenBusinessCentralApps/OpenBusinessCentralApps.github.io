@@ -1,6 +1,7 @@
 title: Open Business Central Apps
 description: Open source Apps for Microsoft Dynamics 365 Business Central
-show_downloads: true
+show_github.repository_url: false
+show_downloads: false
 
 baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
 url: "https://openbcapps.com" # change this to the base hostname & protocol for your site
