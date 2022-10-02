@@ -67,7 +67,7 @@
         <section class="page-header">
             <h1 class="project-name">{{ page-title }}</h1>
             <h2 class="project-tagline">{{ page-tagline }}</h2>
-            {% if site.show_github_org_url %}
+            {% if page.layout == 'home' and site.show_github_org_url %}
             <a href="{{ site.github_org_url }}" class="btn">View on GitHub</a>
             {% endif %}
             {% if site.show_downloads %}
