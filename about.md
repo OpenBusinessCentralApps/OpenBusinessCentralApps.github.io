@@ -17,6 +17,6 @@ Developers, customers and others can then download, modify, and publish their ve
 
 This website is based on _Cayman Blog_ Jekyll theme. You can find out more info about customizing this theme, as well as basic usage documentation, and source code at: [cayman-blog](https://github.com/lorepirri/cayman-blog)
 
-You can find the source code for this website at [github](https://github.com/OpenBusinessCentralApps/OpenBusinessCentralApps.github.io)
+You can find the source code for this website at [github](https://github.com/OpenBusinessCentralApps/openbcapps.com)
 
 [Go to the Home Page]({{ '/' | absolute_url }})
