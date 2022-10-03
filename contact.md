@@ -1,11 +1,16 @@
 ---
 layout: page
 title: Contact
-tagline: Visit us on GitHub
+tagline: Visit us on
 ref: contact
 order: 1
 ---
 
-You can find us on [github](https://github.com/OpenBusinessCentralApps) or on twitter [@OpenBcApps](https://twitter.com/OpenBCApps).
+# GitHub 
+
+You can find us on [GitHub](https://github.com/OpenBusinessCentralApps) 
+
+# Twitter
+Tweet us on twitter [@OpenBcApps](https://twitter.com/OpenBCApps)
 
 [Go to the Home Page]({{ '/' | absolute_url }})

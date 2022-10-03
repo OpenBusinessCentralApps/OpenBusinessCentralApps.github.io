@@ -8,10 +8,19 @@
 layout: home
 ---
 
-Cayman Blog Theme is a clean, responsive blogging theme for Jekyll. It is inspired by the Cayman Theme for Github Pages, which can be greatly used for single projects but not as blogging platform.
+# Why open source? 
 
-This theme has instead all you need to start today blogging with Jekyll, and no effort: pages, posts, few social buttons. Try loading this on mobile too.
+To minimize the number of times the wheel needs to be reinvented. To enhance a productive cooperation among the community members and bring the community closer together.
 
-Have a look at the Github page for more information.
+There are many more reasons [why](https://opensource.google/documentation/reference/why/).
 
-You find this descriptive text in the `index.md` file, so you can change it, or remove it completely, according to your needs.
+# Which object range do we use?
+
+Currently there is no official objectrange for opensource projects. Therefore we decided to use the objects 77.000 - 77.999 from the PTE object range.
+
+# Contribution
+
+Contributing to open source projects can be a rewarding way to learn, teach, share, and build experience.
+There are plenty more reasons why you should contribute to open source projects.
+
+Feel free to visit us on GitHub.
