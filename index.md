@@ -8,17 +8,17 @@
 layout: home
 ---
 
-# Why open source? 
+## Why open source? 
 
 To minimize the number of times the wheel needs to be reinvented. To enhance a productive cooperation among the community members and bring the community closer together.
 
 There are many more reasons [why](https://opensource.google/documentation/reference/why/).
 
-# Which object range do we use?
+## Which object range do we use?
 
 Currently there is no official objectrange for opensource projects. Therefore we decided to use the objects 77.000 - 77.999 from the PTE object range.
 
-# Contribution
+## Contribution
 
 Contributing to open source projects can be a rewarding way to learn, teach, share, and build experience.
 There are plenty more reasons why you should contribute to open source projects.
